@@ -1,0 +1,146 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(CoolRender.vcxproj, SoftwareRaster.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  SoftRasterMain.cpp
+D:\cpp\softrasterizer\CoolEngine\render\renderMath.h(11,1): warning C4005: “PI”: 宏重定义
+D:\cpp\softrasterizer\CoolEngine\raytracer1\common.h(27): message : 参见“PI”的前一个定义
+D:\cpp\softrasterizer\CoolEngine\render\tgaimage.h(62,25): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\cpp\softrasterizer\CoolEngine\render\macro.h(3,1): warning C4005: “EPSILON”: 宏重定义
+D:\cpp\softrasterizer\CoolEngine\raytracer1\common.h(24): message : 参见“EPSILON”的前一个定义
+D:\cpp\softrasterizer\CoolEngine\render\macro.h(4,1): warning C4005: “PI”: 宏重定义
+D:\cpp\softrasterizer\CoolEngine\render\renderMath.h(11): message : 参见“PI”的前一个定义
+D:\cpp\softrasterizer\CoolEngine\render\LineDrawTest.h(17,36): warning C4305: “+=”: 从“double”到“float”截断
+D:\cpp\softrasterizer\CoolEngine\render\LineDrawTest.h(18,9): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\cpp\softrasterizer\CoolEngine\render\LineDrawTest.h(19,9): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\cpp\softrasterizer\CoolEngine\render\LineDrawTest.h(28,9): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\cpp\softrasterizer\CoolEngine\render\TriangleDrawTest.h(100,19): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\cpp\softrasterizer\CoolEngine\render\TriangleDrawTest.h(110,22): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\cpp\softrasterizer\CoolEngine\render\TriangleDrawTest.h(116,14): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\cpp\softrasterizer\CoolEngine\render\TriangleDrawTest.h(124,22): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\cpp\softrasterizer\CoolEngine\render\TriangleDrawTest.h(150,19): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\cpp\softrasterizer\CoolEngine\render\TriangleDrawTest.h(151,20): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\cpp\softrasterizer\CoolEngine\render\TriangleDrawTest.h(186,80): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\cpp\softrasterizer\CoolEngine\render\TriangleDrawTest.h(186,57): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\cpp\softrasterizer\CoolEngine\render\TriangleDrawTest.h(186,34): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\cpp\softrasterizer\CoolEngine\render\TriangleDrawTest.h(186,151): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\cpp\softrasterizer\CoolEngine\render\TriangleDrawTest.h(186,128): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\cpp\softrasterizer\CoolEngine\render\TriangleDrawTest.h(186,105): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\cpp\softrasterizer\CoolEngine\render\TriangleDrawTest.h(300,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\cpp\softrasterizer\CoolEngine\render\mathTest.h(32,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\cpp\softrasterizer\CoolEngine\render\SoftRasterMain.cpp(130,76): warning C4838: 从“int”转换到“DWORD”需要收缩转换
+D:\cpp\softrasterizer\CoolEngine\render\SoftRasterMain.cpp(242,40): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\cpp\softrasterizer\CoolEngine\render\SoftRasterMain.cpp(296,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\cpp\softrasterizer\CoolEngine\render\SoftRasterMain.cpp(310,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\cpp\softrasterizer\CoolEngine\render\SoftRasterMain.cpp(494,16): warning C4996: 'getcwd': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getcwd. See online help for details.
+D:\cpp\softrasterizer\CoolEngine\render\SoftRasterMain.cpp(503,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\cpp\softrasterizer\CoolEngine\render\SoftRasterMain.cpp(505,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\cpp\softrasterizer\CoolEngine\render\SoftRasterMain.cpp(697,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\cpp\softrasterizer\CoolEngine\render\SoftRasterMain.cpp(699,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\cpp\softrasterizer\CoolEngine\render\SoftRasterMain.cpp(704,3): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\cpp\softrasterizer\CoolEngine\render\SoftRasterMain.cpp(705,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\cpp\softrasterizer\CoolEngine\render\SoftRasterMain.cpp(738,61): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\cpp\softrasterizer\CoolEngine\render\geometry.h(222,48): warning C4244: “=”: 从“float”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+D:\cpp\softrasterizer\CoolEngine\render\TriangleDrawTest.h(50): message : 查看对正在编译的函数 模板 实例化“vec<2,int> operator *<2,int>(const vec<2,int> &,float)”的引用
+D:\cpp\softrasterizer\CoolEngine\render\geometry.h(51,8): warning C4244: “=”: 从“const T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\cpp\softrasterizer\CoolEngine\render\TriangleDrawTest.h(156): message : 查看对正在编译的函数 模板 实例化“vec<2,float>::vec<int>(const vec<2,int> &)”的引用
+D:\cpp\softrasterizer\CoolEngine\render\TriangleDrawTest.h(156): message : 查看对正在编译的函数 模板 实例化“vec<2,float>::vec<int>(const vec<2,int> &)”的引用
+D:\cpp\softrasterizer\CoolEngine\render\geometry.h(52,8): warning C4244: “=”: 从“const T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  SoftRaster.vcxproj -> D:\cpp\softrasterizer\CoolEngine\x64\Debug\SoftRaster.exe

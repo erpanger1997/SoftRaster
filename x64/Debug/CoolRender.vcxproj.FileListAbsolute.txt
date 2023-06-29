@@ -1,0 +1,2 @@
+D:\cpp\Rasterizer\CoolEngine\x64\Debug\CoolRender.exe
+D:\cpp\softrasterizer\CoolEngine\x64\Debug\SoftRaster.exe
